@@ -1,0 +1,25 @@
+[slave1] INSERT INTO users VALUES (1, 'Fares');
+[slave1] INSERT INTO users VALUES (1, 'Fares');
+[slave1] INSERT INTO users VALUES (1, 'ibrahim');
+[slave1] INSERT INTO users VALUES (2, 'ibrahim');
+[slave1] INSERT INTO users VALUES (1, 'Ali');
+[slave1] delete from users where id=2;
+[slave1] dron database masterdb
+[slave1] drob database masterdb
+[slave1] selec *from users
+[slave1] select *from users
+[slave1] update users set id=2 where id=1
+[slave1] select *from users
+[slave1] UPDATE users set name="khery" where id=5;
+[slave1] UPDATE users set name="khery" where id=2;
+[slave1] INSERT into users (name)values("ibrahim");
+[slave1] INSERT into users (name)values("dahh");
+[slave1] select * from users
+[slave1] select * from users
+[slave1] INSERT into users (name)values("gggg");
+[slave1] select * from member
+[slave1] select * from member
+[slave1] select * from member
+[slave1] jhdfmvfd
+[slave1] insert into users(1,"ähmed");
+[slave1] insert into users(id,name)values(1,"ahmed")
